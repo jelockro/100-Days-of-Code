@@ -3,9 +3,9 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**: In the process of moving fetch requests to service worker.  Stalled out at opening transaction on database. For some reasont he database is also consoling as null.
 
-**Thoughts:** I
+**Thoughts:** Very tired today.  Really look forward to solving this issue.
 
 **Link to work:** [Restaurant Survey App](https://github.com/jelockro/mws-restaurant-stage-1)
 
