@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 10, 2018 
 
 **Today's Progress**: In the process of moving fetch requests to service worker.  Stalled out at opening transaction on database. For some reasont he database is also consoling as null.
 
@@ -9,3 +8,11 @@
 
 **Link to work:** [Restaurant Survey App](https://github.com/jelockro/mws-restaurant-stage-1)
 
+
+### Day 1: August 11, 2018 
+
+**Today's Progress**: Was able to access database and create transaction on it, as well as fetch the json data within the serviceWorker. 
+
+**Thoughts:** I feel like I'm getting very close to solving this piece.  Once I am done, I need to work on understanding how to use gulp and node and babel so that I can modularize my code and import the modules I need.  I know my code is not DRY, but once I get everything working I would like to focus on cleaning up the code and modularizing it.
+
+**Link to work:** [Restaurant Survey App](https://github.com/jelockro/mws-restaurant-stage-1)
