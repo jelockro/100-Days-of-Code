@@ -16,3 +16,11 @@
 **Thoughts:** I feel like I'm getting very close to solving this piece.  Once I am done, I need to work on understanding how to use gulp and node and babel so that I can modularize my code and import the modules I need.  I know my code is not DRY, but once I get everything working I would like to focus on cleaning up the code and modularizing it.
 
 **Link to work:** [Restaurant Survey App](https://github.com/jelockro/mws-restaurant-stage-1)
+
+### Day 2: August 12, 2018 
+
+**Today's Progress**: Was able to fetch assets out of indexedDB.  Still running into lots of bugs.
+
+**Thoughts:** I thought I had the site up and running, and was running lighthouse audits, and then for some reason I am having database issues again.  I've spent the whole day debugging. Feeling a bit frustrated. I haven't pushed my commits yet, but will do tomorrow.
+
+**Link to work:** [Restaurant Survey App](https://github.com/jelockro/mws-restaurant-stage-1)
