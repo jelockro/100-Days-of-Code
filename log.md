@@ -64,3 +64,28 @@
 **Thoughts:** I am very eager to start refactoring? (not sure that is the word) the code so that I can take advantage of modularized javascript.  I think it would be helpful to do the broswerify tutorial and start with very simple scripts and experiment with bundling them, and then eventually start to break apart the scripts in my project to their components.  
 
 **Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
+
+### Day 8: August 18, 2018 
+
+**Today's Progress**: Worked on some backend python server stuff.  
+
+**Thoughts:** Not going to look at the restaurant app code this weekend.   
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
+
+### Day 9: August 19, 2018 
+
+**Today's Progress**: Worked on assignments for launchcode using the python turtle library.  
+
+**Thoughts:** Continued the part 3 learning in the udacity program.  Learned that with http/2 bundling & concatenating scripts is no longer be best practices.  HAH! Also learning about security.  I had been using public and private keys for cryptocurrencies and never realized the very concept was behind https.  I've just been using these tools without really understanding why or how they work. 
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
+
+### Day 10: August 20, 2018 
+
+**Today's Progress**: Worked on an assignment for launchcode using classes and class-inheritance.  A bit overkill for the requirements, but this is the first time I ever successfully built a class from scratch and it worked. I'm adding the code to my repo. Also created a ridiculous list splicing solution to a problem that was basically a three-liner using modulo.  
+
+**Thoughts:** Solving the problems for the launchCode course is a lot more fun now that I have spent some time programming in python and javascript.  I think it's neat that I'm already starting to approach problems with an object-oriented perspective.  Probably due to the time spent in javascript.  
+
+**Link to work:** [Wagon Wheel Solution] (https://github.com/jelockro/LaunchCode_101/blob/master/goMike.py
+
