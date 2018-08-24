@@ -89,3 +89,12 @@
 
 **Link to work:** [Wagon Wheel Solution] (https://github.com/jelockro/LaunchCode_101/blob/master/goMike.py
 
+### Day 11: August 23, 2018 
+
+**Today's Progress**: Learning Go and Dapp development.  https://tour.golang.org/moretypes/18 https://goethereumbook.org/ethereum-development-with-go.pdf
+The last couple days I've been upgrading my laptop and working on a wordpress migration.
+
+**Thoughts:** I need to get back to working on my restaurant survey app. I will still have time tonight to do that.  I'm just hitting a wall of interest.  I think what I will do is finish the survey app, and then dive into Go and Dapp development.
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
+
