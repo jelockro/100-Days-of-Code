@@ -98,3 +98,10 @@ The last couple days I've been upgrading my laptop and working on a wordpress mi
 
 **Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
 
+### Day 12: August 24, 2018 
+
+**Today's Progress**: I got my development environment ready for the third stage of the Udacity project.  I also found some svg's for the 1st part of the project which is adding favoriting capability.  I also learned a little about svg.  
+
+**Thoughts:** I think SVG's are awesome, and I can't wait to play around with some css tricks and svg's. especially for some neat interactive homepages.  Alas, I have to work on this app and it is due in 15 days.  I wish I was more confident in implementing this stuff, but I guess that is why I am learning.  
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
