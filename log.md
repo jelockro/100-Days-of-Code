@@ -104,4 +104,30 @@ The last couple days I've been upgrading my laptop and working on a wordpress mi
 
 **Thoughts:** I think SVG's are awesome, and I can't wait to play around with some css tricks and svg's. especially for some neat interactive homepages.  Alas, I have to work on this app and it is due in 15 days.  I wish I was more confident in implementing this stuff, but I guess that is why I am learning.  
 
-**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/mws-restaurant-stage2)
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
+
+### Day 13: August 25, 2018 
+
+**Today's Progress**: I don't have the favorite toggle working yet, but I think I know the path I need to go down to get it finished. 
+
+**Thoughts:** I need to be able to update the server and the idb when the favorite svg is clicked, and then somehow get the svg to change.  
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
+
+### Day 14: August 27, 2018 
+
+**Today's Progress**: I got the favorite svg to update everything on toggle, and for the dom elements to refresh.  Currently the refresh method I am using is causing some bugs in other areas of the dom, but I think I know why.
+
+**Thoughts:** I need to break apart my fillHtml code into smaller fragments, so I can call the ones I want in particular circumstances.  
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
+
+### Day 15: August 28, 2018 
+
+**Today's Progress**:  I added a form to add reviews and some early javascript for the form.
+
+**Thoughts:** I need to break apart my fillHtml() code into smaller fragments, so I can call the ones I want in particular circumstances.  I also need to create an IDB store for reviews and some syncing functionality so that if the user is offline, it will store the data and sync later.  I think I can get this done before the 8th. Everything is going to be broken for awhile as I revamp the DBHelper code.  
+
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
+
+
