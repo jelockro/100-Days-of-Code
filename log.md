@@ -151,6 +151,5 @@ The last couple days I've been upgrading my laptop and working on a wordpress mi
 
 **Thoughts:** Now that reviews post to idb, I need to work on the syncing code that will Put the changes to the server when the client is online.  If I have time before the 8th, I would like to really clean up the DBHelper.js code.  It's a mess.
 Plus, I don't like how github measures contributions.  I am using forks, so showing no contributions.
-**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3/tree/master)
-
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-RestaurantStage3/tree/master)
 
