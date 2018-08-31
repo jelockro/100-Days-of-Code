@@ -130,4 +130,18 @@ The last couple days I've been upgrading my laptop and working on a wordpress mi
 
 **Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
 
+### Day 16: August 29, 2018 
+
+**Today's Progress**: I refactored the database helper code.
+
+**Thoughts:** I felt really proud of myself that I was able to refactor the code into something I understood better.  I'm seeing the light at the end of the tunnel.
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
+
+### Day 17: August 30, 2018 
+
+**Today's Progress**: Fixed the toggle code, will finish the review form code tomorrow.
+
+**Thoughts:** So Close!!!
+**Link to work:** [Restaurant Survey App] (https://github.com/jelockro/MWS-Stage3)
+
 
