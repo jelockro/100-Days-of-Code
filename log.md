@@ -154,3 +154,19 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 
 **Link to work:** [Restaurant Survey App](https://github.com/jelockro/MWS-Stage3/tree/master)
 
+### Day 19: September 1st, 2018 
+
+**Today's Progress**: favorite toggle works offline, and data syncs when online, reviews are syncing correctly yet.
+
+**Thoughts:**  I have another project I am working on called 'Scrooge', which I always envsioned being used offline and online.  Now I know how to implement that functionality.  I think the bigger challenge will be the server-side code, which is not something I really worked with in this project.
+
+**Link to work:** [Restaurant Survey App](https://github.com/jelockro/MWS-Stage3/tree/master)
+
+
+### Day 20: September 2, 2018 
+
+**Today's Progress**: Everything works, and project has passed lighthouse scores.  Sending it in for review, I shall find out tomorrow how I did.  Finger crossed, it feels good to have the project ready to turn in before the deadline.
+
+**Thoughts:**  I don't know if I want to work on the scrooge project or a vr/ar project. I mean, I guess if I had to choose, I would choose the vr/ar project and take the opportunity to learn C# and C.  I also have a dashboard I was going to create to remotely monitor my mining rigs.  nextProject = random.randrange(3).
+
+**Link to work:** [Restaurant Survey App](https://github.com/jelockro/MWS-Stage3/tree/master)
