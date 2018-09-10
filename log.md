@@ -170,3 +170,22 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 **Thoughts:**  I don't know if I want to work on the scrooge project or a vr/ar project. I mean, I guess if I had to choose, I would choose the vr/ar project and take the opportunity to learn C# and C.  I also have a dashboard I was going to create to remotely monitor my mining rigs.  nextProject = random.randrange(3).
 
 **Link to work:** [Restaurant Survey App](https://github.com/jelockro/MWS-Stage3/tree/master)
+
+### Day 21: September 8, 2018 
+
+**Today's Progress**: I am putting together my next project, it is a quantitative trading application, that allows the user to choose which cryptocurrency to pull daily data from an api, and then allows the user to choose which machine learning algorithms to process the data from.  Basically, creating a web-based UI for earlier scripts.
+
+**Thoughts:**  I really was hoping to start working with node and gulp, but I want recruiters to be able to see that I have worked with machine learning.  Also, I am more motivated to refine the Scrooge app later, and will be happy to get back into javascript with that project.  I may still use incorporate javascript for its fetch capability, but I might just used the native python requests.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+### Day 22: September 9, 2018 
+
+**Today's Progress**: I worked on some cryptography scripts for launchcode.  I used try/excepts and argument vectors for the first time, as well as import statements for my own code. 
+
+**Thoughts:**  Python is not that bad.  I find that I can write code faster in python than in javascript.  I don't get into as many syntax problems.  My python linter seems to scream at me, but maybe that's a good thing.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+
+
