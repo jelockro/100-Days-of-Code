@@ -187,5 +187,22 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
+### Day 22: September 10, 2018 
+
+**Today's Progress**: worked on bubblesort for launchcode, and fixing python environment in QuantTrading.  Learning how python environments work under the hood, so I can troubleshoot things and just do things right since if I don't activate the environment right on my mac, I'll end up using 2.7 and having all sorts of problems down the road.
+
+**Thoughts:**  I was working through bubble-sort with another peer and her code was very clean and short.  I was making things way too complicated using recursion....and the whole time I simply was blind to how her while loop affected her code.  I am very frustrated with myself that it took me like 20 minutes before I was able to see what was going on.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+### Day 23: September 11, 2018 
+
+**Today's Progress**: Spent most of the night getting my vr/leap motion development environmentsetup.  Using VRigdge & SteamVr for testing and Unity for development 
+
+**Thoughts:**  I was working through bubble-sort with another peer and her code was very clean and short.  I was making things way too complicated using recursion....and the whole time I simply was blind to how her while loop affected her code.  I am very frustrated with myself that it took me like 20 minutes before I was able to see what was going on.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+
 
 
