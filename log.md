@@ -203,6 +203,14 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
+### Day 24: September 12, 2018 
+
+**Today's Progress**: Spent a few hours learning and using pipenv & virtualenv, fixing paths and .bashrc and I followed along the udacity course on git.
+
+**Thoughts:**  Trying to clean up my commit style.  I also want to make sure that github repo shows a steady flow of commits.  I would like to go through my github, update readmes & refactor code. 
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
 
 
 
