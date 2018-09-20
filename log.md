@@ -243,4 +243,12 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
+### Day 29: September 19, 2018 
+
+**Today's Progress**: Lifting state into parent components with tic tac toe https://reactjs.org/tutorial/tutorial.html#overview
+
+**Thoughts:**  A little intimidated by this material, but can't wait to master it and start using it in my project.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
 
