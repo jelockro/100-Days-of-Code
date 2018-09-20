@@ -211,6 +211,36 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
+### Day 25: September 13, 2018
 
+**Today's Progress**: worked on a yahtzee python game for launchcode 101
+
+**Thoughts:** again I tend to overcomplicate things.  Also, I need to write a lot more classes.  I am looking forward to writing modular css, js, and python this next month. 
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+### Day 26: September 16, 2018
+
+**Today's Progress**: finished writing some code for launchcode.  Writing classes, importing, and using if __name__ == __main__ to differentiate from importing the class from running the file as a script. I like that flexibility, though don't know for sure when I will use it. Started learning c.
+
+**Thoughts:** I'd like to write some code from scratch using python, but it seems I am always importing some library, and working off of a template.  Also, it seems I spend a lot of time understangin the API's for packages like webpack of Flask, rather than writing my own packages. Someone in our AR discord group was working on an open source vr fork.  I looked through the repo to find it was written in c. For some reason I have been intimidate by c, but it looks accessible.  Wrote my first hello-world program.  I think it's cool that I can compile code and create executables.  I look forward to progressing in c, but I've got a lot on my plate.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+### Day 27: September 17, 2018 
+
+**Today's Progress**: added login requirements for my application via flask.
+
+**Thoughts:**  I almost got blocked today thinking that I needed to understand the database schema, then decided to keep it simple and just iterate complexity as I realiaze what I need.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+### Day 28: September 18, 2018 
+
+**Today's Progress**: added react to my project
+
+**Thoughts:**  I am looking for a react tutorial so that I will better understand react components, also so I will know where to put directories for my project, which always seems to be a hurdle for me.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
 
