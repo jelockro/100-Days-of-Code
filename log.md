@@ -251,4 +251,22 @@ Plus, I don't like how github measures contributions.  I am using forks, so show
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
+### Day 30: October 4, 2018 
+
+**Today's Progress**: 3d printers, emacs, git merge conflicts, and a better way to c.
+
+**Thoughts:**  I have been coding here and there, but work and my wife's imminent due date has been keeping me from being more disciplined about updating everything. I honestly can't keep track of what I've done over the days so I am just going to update everything on this day.
+
+I started Stanford's CS106B - Programming Abstractions to learn C.  However, the free course is too outdated.  I created a virtual ubuntu 32 bit box to try to keep up, and tried to learn emacs to write code and compile everythnig from the terminal.  emacs is a diaster.  I was using hyper and I just didn't have the patience to try to get everything configured correctly.  I did manage to work through emacs included tutorial for their ede.  But I did something wrong in the directions, and the emacs ede project won't compile.  I will have to delete everything and start over, but then I'm thinking, why?  learning emacs, to write c via a terminal seems to be an unnecessary learning curve to C.  
+
+I also received and put together my 3d printer.  And today I am configuring Cura with the help of online tutorials to create a good profile so I can print the frame for project Northstar.  Today, Sam also gave me the lenses he had CNC'ed.  Which is awesome, but instead of the three pairs he thought he could make I only got one.  So I will have to be extra careful sanding and making them reflective.  
+
+Today at launchcode I helped classmates with the lesson or "studio" on git and github.  I enjoyed the part where we teamed up and dealt with merge conflicts. 
+
+Still no progress with react, though I have some great articles come into my inbox from medium, but I am very backed up with reading.  I also need to catch up with the career stuff from udacity, which I haven't been able to even read.  
+
+I've over-extended myself on projects, I can tell that now.  Apparently github is also counting my contribution to this repo, which is great, as before I didn't believe they were getting counted.  This gives me a bigger incentive to keep doing this for another 70 days!
+
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
