@@ -270,3 +270,10 @@ I've over-extended myself on projects, I can tell that now.  Apparently github i
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
 
+### Day 31: October 09, 2018 
+
+**Today's Progress**: I worked on the 3-d printer, and installed software & firmware on mac.  
+
+**Thoughts:** Baby arrived Sunday night. It's Tuesday night and I'm pretty darned tired, but I wanted to spend some me time with the 3d printer.  Of course I jam it more than anything I've seen on the internet. So I take it apart, and thankfully it is working again.  Was hoping to do some configuration prints, but spent most of the night on the jam/clogged hot end.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
