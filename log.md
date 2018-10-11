@@ -277,3 +277,14 @@ I've over-extended myself on projects, I can tell that now.  Apparently github i
 **Thoughts:** Baby arrived Sunday night. It's Tuesday night and I'm pretty darned tired, but I wanted to spend some me time with the 3d printer.  Of course I jam it more than anything I've seen on the internet. So I take it apart, and thankfully it is working again.  Was hoping to do some configuration prints, but spent most of the night on the jam/clogged hot end.
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/QuantTrading)
+
+### Day 32: October 10, 2018 
+
+**Today's Progress**: started a tutorial on implementing material design into my project.  I really like their theme for finance, and I hope to implement it into scrooge later, but now implementing into the launchcode project html-me-something, but will be useful for quant-trading. 
+
+**Thoughts:** I plan on updating quant-trading's front-end during this stage of launchcode and then developing the backend in the next stage. I am working on upping my game by using material design.  I feel like I have webpack down pack, although I don't have any special tooling to auto-compile at the moment. But I am using babel more fluently, bundling js, and hopefully going to getting more familiar with sass.  
+
+I also need to hook up my laptop to the 3d printer and get things configured, but not tonight.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/html-me-something)
+
