@@ -288,3 +288,11 @@ I also need to hook up my laptop to the 3d printer and get things configured, bu
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/html-me-something)
 
+### Day 33: October 15, 2018 
+
+**Today's Progress**: Managed to get the modal drawer and top-app-bar from google's material design working on my launchcode project.  
+
+**Thoughts:** I hope to recreate their rally theme to be used for quant-trading and eventually Scrooge.  I will try to implement as much of what I want in scrooge in quant-trading from a design perspective.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/html-me-something)
+
