@@ -296,3 +296,10 @@ I also need to hook up my laptop to the 3d printer and get things configured, bu
 
 **Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/html-me-something)
 
+### Day 34: October 18, 2018 
+
+**Today's Progress**: started using sass to style the website, ready to incorporate an MVC framework
+
+**Thoughts:** I think I am ready to finish the react tutorials that I put on hold. I finally think I am getting a grasp on flask,  since we are using it in launchcode, and I have been able to tutor my peers on how to get their flask apps up and running, but I've already started developing this in the node environment, and would like to learn react anyway.
+
+**Link to work:** [Crypto Quant Trading App](https://github.com/jelockro/html-me-something)
