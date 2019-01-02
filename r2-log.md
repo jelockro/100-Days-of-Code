@@ -14,3 +14,8 @@ https://github.com/jelockro/WMS-RestaurantStage3/refactor.
 
 ### R2D3 - 01-01-2019
 Played around with CSS animations and using module in JS to create & style DOM elements.
+
+### R2D4 - 01-02-2019
+Finishing up the LaunchCode Java Back-End course.  Worked on MVC with Spring & Thymeleaf.  Also incorporated some flexbox and css animations for good measure.
+https://github.com/jelcokro/cheese-mvc
+
