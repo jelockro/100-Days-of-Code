@@ -17,5 +17,5 @@ Played around with CSS animations and using module in JS to create & style DOM e
 
 ### R2D4 - 01-02-2019
 Finishing up the LaunchCode Java Back-End course.  Worked on MVC with Spring & Thymeleaf.  Also incorporated some flexbox and css animations for good measure.
-https://github.com/jelockro/cheese-mvc
+https://github.com/jelockro/mvc-cheese
 
