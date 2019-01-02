@@ -11,3 +11,6 @@ Worked on Webpack/Express/Node development environment for re-factoring Restaura
 ### R2D2
 More modular Webpack configuration and Sass stuff, and some in-depth reading on EC6 changes.
 https://github.com/jelockro/WMS-RestaurantStage3/refactor. 
+
+### R2D3 - 01-01-2019
+Played around with CSS animations and using module in JS to create & style DOM elements.
