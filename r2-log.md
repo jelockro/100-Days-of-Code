@@ -19,7 +19,10 @@ Played around with CSS animations and using module in JS to create & style DOM e
 Finishing up the LaunchCode Java Back-End course.  Worked on MVC with Spring & Thymeleaf.  Also incorporated some flexbox and css animations for good measure.
 https://github.com/jelockro/mvc-cheese
 
-### R2D4 - 01-02-2019
+### R2D4 - 01-03-2019
 More MVC work with Java. Continuing __Clean Code: A Handbook for Agile Software Craftsmanship__, and applying it to my restaurant review pwa.
 https://github.com/jelockro/techjobs-mvc
 
+### R2D4 - 01-04-2019
+Made some great progress in refactoring the review PWA.  Trying to apply SRP to write concise js modules, and focusing on descriptive naming converntions.  
+https://github.com/jelockro/WMS-RestaurantStage3/refactor. 
