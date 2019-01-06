@@ -26,3 +26,7 @@ https://github.com/jelockro/techjobs-mvc
 ### R2D4 - 01-04-2019
 Made some great progress in refactoring the review PWA.  Trying to apply SRP to write concise js modules, and focusing on descriptive naming converntions.  
 https://github.com/jelockro/WMS-RestaurantStage3/refactor. 
+
+### R2D4 - 01-05-2019
+I only had time tonight to go through some angular tutorials and try to apply it to restaurant reviews.  
+https://github.com/jelockro/WMS-RestaurantStage3/refactor. 
