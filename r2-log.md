@@ -31,11 +31,15 @@ https://github.com/jelockro/WMS-RestaurantStage3/refactor.
 I only had time tonight to go through some angular tutorials and try to apply it to restaurant reviews.  
 https://github.com/jelockro/WMS-RestaurantStage3/refactor. 
 
-### R2D8 - 01-08-2019
-working on my first angular client-side application. 
+### R2D8 - 01-07-2019
+Going through a udemy course on building and deploying Angular applications.
 https://github.com/jelockro/basicLog
 
-### R2D9 - 01-09-2019
+### R2D9 - 01-08-2019
+Working on my first angular client-side application. 
+https://github.com/jelockro/basicLog
+
+### R2D10 - 01-09-2019
 Finished & deployed my first Angular client-side web-app. Won't use camelcase in my github project names again.
 https://github.com/jelockro/basicLog
 https://jelcokro.github.io/basicLog
