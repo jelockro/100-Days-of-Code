@@ -44,4 +44,17 @@ Finished & deployed my first Angular client-side web-app. Won't use camelcase in
 https://github.com/jelockro/basicLog
 https://jelcokro.github.io/basicLog
 
+### R2D11 - 01-10-2019
+Started working on ClientPanel, another Angular App, and java for launchcode
 
+### R2D12 - 01-11-2019
+Still working on ClientPanel, another Angular APP
+
+### R2D13 - 01-14-2019
+Styling my java application and working on routes
+
+### R2D14 - 01-15-2019
+A little bit of Java...well actually, xml
+
+### R2D15 - 01-16-2019
+Updating all my repositories on github..that means all the links in here will be broken :( Merging repos isn't the easiest.  I have a lot more work to do, but going to try out Subtree Merging. I would like all my udacity classes to be subtrees of one udacity repository, and then all the original repos can be private.  I also need to prepare for a technical interview, so I want to limit the rest of the time I spend on merging repos to one hour tomorrow.  
