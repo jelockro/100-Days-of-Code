@@ -58,3 +58,6 @@ A little bit of Java...well actually, xml
 
 ### R2D15 - 01-16-2019
 Updating all my repositories on github..that means all the links in here will be broken :( Merging repos isn't the easiest.  I have a lot more work to do, but going to try out Subtree Merging. I would like all my udacity classes to be subtrees of one udacity repository, and then all the original repos can be private.  I also need to prepare for a technical interview, so I want to limit the rest of the time I spend on merging repos to one hour tomorrow.  
+
+### R2D16 - 01-17-2019
+I was successful at using subtree merging to consolidate some of my repositories. It's a tedious process, but I like that I can keep a repository private but add it as a subtree to a something else if it becomes important.  Was stuck with model binding for my java project.  I didn't have setters generated for my model, and spring relies on them. These types of problems can be frustrating, but I learn a lot from them.
