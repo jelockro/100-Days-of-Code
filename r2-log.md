@@ -73,6 +73,6 @@ I was successful at using subtree merging to consolidate some of my repositories
 [added 01-22] On Monday I continued working with data structures including hash-tables and read a lot of java documentation, and tried my hand at some example coding questions.
 I pushed my work to https://github.com/jelockro/technical-interview-study
 
-
-
+### R2D20 - 01-22-2019
+I have updated my goal to 11 commits a day. I really like that shade of green on the github commit map.  
 
