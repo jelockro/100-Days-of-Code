@@ -61,3 +61,18 @@ Updating all my repositories on github..that means all the links in here will be
 
 ### R2D16 - 01-17-2019
 I was successful at using subtree merging to consolidate some of my repositories. It's a tedious process, but I like that I can keep a repository private but add it as a subtree to a something else if it becomes important.  Was stuck with model binding for my java project.  I didn't have setters generated for my model, and spring relies on them. These types of problems can be frustrating, but I learn a lot from them.
+
+### R2D17 - 01-18-2019
+[added 01-22] On Friday I spent the day studying data structure for my upcoming technical interview.  I wrote code in Java for tries.
+
+### R2D18 - 01-20-2019
+[added 01-22] On Sunday I continued working with data structures, linked-lists, stacks, and queues.  I pushed my work to https://github.com/jelockro/technical-interview-study
+
+
+### R2D19 - 01-21-2019
+[added 01-22] On Monday I continued working with data structures including hash-tables and read a lot of java documentation, and tried my hand at some example coding questions.
+I pushed my work to https://github.com/jelockro/technical-interview-study
+
+
+
+
