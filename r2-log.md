@@ -79,6 +79,9 @@ I have updated my goal to 11 commits a day. I really like that shade of green on
 ### R2D21 - 01-23-2019
 [added 01-25] Switched gears to start studying devops. Started the crypto-react project.  
 
+### R2D22 - 01-24-2019
+[added 01-25] configured virtual machines for a git server, a host server, and a jenkins server.
+
 
 
 
