@@ -82,6 +82,9 @@ I have updated my goal to 11 commits a day. I really like that shade of green on
 ### R2D22 - 01-24-2019
 [added 01-25] configured virtual machines for a git server, a host server, and a jenkins server.
 
+### R2D23 - 01-25-2019
+Successfully ran my first jenkins pipeline that involved running a docker script.
+
 
 
 
