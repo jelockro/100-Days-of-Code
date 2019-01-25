@@ -76,3 +76,9 @@ I pushed my work to https://github.com/jelockro/technical-interview-study
 ### R2D20 - 01-22-2019
 I have updated my goal to 11 commits a day. I really like that shade of green on the github commit map.  
 
+### R2D21 - 01-23-2019
+[added 01-25] Switched gears to start studying devops. Started the crypto-react project.  
+
+
+
+
