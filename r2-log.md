@@ -89,6 +89,6 @@ Successfully ran my first jenkins pipeline that involved running a docker script
 Had $6.00 worth of fun with AWS Robomaker.  Which isn't a lot of fun. However, I learned a lot about ROS, if I ever continue playing around with robotics. I think I will continue to play around with the tutorials, especially incoporating the Vision recognition services.
 
 ### R2D25 - 01-27-2019
-created my first kubernetes cluster on AWS using KOPS and using IAM Also, went through the kubernetes tutorials on kubernetes.io, which used minikube to create the cluster, and learned how to administer the cluster. Also finished preface, introduction, chapter 1 & 2 of google's SRE Handbook (1st edition).
+created my first kubernetes cluster on AWS using KOPS and using IAM Also, went through the kubernetes tutorials on kubernetes.io, which used minikube to create the cluster, and learned how to administer the cluster. Also finished preface, introduction, chapter 1 & 2 of google's SRE Handbook (1st edition). I also worked on Udacity's introduction to microservices, and read a little about the protobuffer language.  I would love to build a microservice that uses protobuffers, and see how small a container I could make, while using tiny protobuffers in a RESTful API. Once I am done working with the Udacity course, I would like to setup my pc with 32gb ram as a kubernetes cluster running on linux vm nodes. I would also like to create a dev environment with automated testing through a jenkins pipeline.  
 
 
