@@ -85,6 +85,10 @@ I have updated my goal to 11 commits a day. I really like that shade of green on
 ### R2D23 - 01-25-2019
 Successfully ran my first jenkins pipeline that involved running a docker script.
 
+### R2D24 - 01-26-2019
+Had $6.00 worth of fun with AWS Robomaker.  Which isn't a lot of fun. However, I learned a lot about ROS, if I ever continue playing around with robotics. I think I will continue to play around with the tutorials, especially incoporating the Vision recognition services.
 
+### R2D25 - 01-27-2019
+created my first kubernetes cluster on AWS using KOPS and using IAM Also, went through the kubernetes tutorials on kubernetes.io, which used minikube to create the cluster, and learned how to administer the cluster. Also finished preface, introduction, chapter 1 & 2 of google's SRE Handbook (1st edition).
 
 
